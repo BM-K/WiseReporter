@@ -31,7 +31,7 @@ def remove_special_symbol(summ_data):
 
     return summ_data
 ```
-<br><br>
+<br>
 *Advertising 문제* <br>
 - Example targets
 ```
