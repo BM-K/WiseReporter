@@ -5,7 +5,7 @@ WiseReporter Data Preprocessing Doc
 신문사에서 summary처럼 보이는 tag가 존재
 
 ### Problems
-<br>
+
 *Special Symbol 문제* <br>
 - Example targets
 
