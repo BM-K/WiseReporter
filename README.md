@@ -1,9 +1,10 @@
 # WiseReporter
 WiseReporter Data Preprocessing Doc
 
-## <span style="color:red"> Strong Tag Preprocessing </span>
+## Strong Tag Preprocessing
 신문사에서 summary처럼 보이는 tag가 존재
 ### Problems
+<br>
 *Special Symbol 문제* <br>
 - Example targets
 ```
