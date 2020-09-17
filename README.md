@@ -3,10 +3,12 @@ WiseReporter Data Preprocessing Doc
 
 ## Strong Tag Preprocessing
 신문사에서 summary처럼 보이는 tag가 존재
+
 ### Problems
 <br>
 *Special Symbol 문제* <br>
 - Example targets
+
 ```
 ● 계륵이던 자소서, 취업전선 총아로
 ● 컨설팅, 작성 대행 등 ‘장삿거리’ 돼
@@ -16,7 +18,9 @@ WiseReporter Data Preprocessing Doc
 세부 실천과제는 ▲정책 연구기능 강화 ▲연구
 -------------------------------------------------
 ```
+
 - Solution : target에 눈으로 확인된 심볼 제거
+
 ```python
 # 특수기호 제거!
 def remove_special_symbol(summ_data):
