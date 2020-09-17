@@ -6,7 +6,7 @@ WiseReporter Data Preprocessing Doc
 
 ### Problems
 
-*Special Symbol 문제* <br>
+*Special Symbol 문제* 
 - Example targets
 
 ```
@@ -31,7 +31,7 @@ def remove_special_symbol(summ_data):
 
     return summ_data
 ```
-<br>
+
 *Advertising 문제* <br>
 - Example targets
 ```
