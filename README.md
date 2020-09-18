@@ -1,6 +1,35 @@
 # WiseReporter
 WiseReporter Data Preprocessing Doc
 
+## Comple Tag Preprocessing
+신문사에서 summary tag가 존재
+
+### Problems
+
+*Advertising 문제* <br>
+- Example source
+
+```
+핀테크 회사들이 은행과 제휴를 맺고 적금 ~~
+연 1.0%의 캐시백을 증정할 계획이다.
+▶네이버 채널에서 '아이뉴스24'를 구독해주세요.
+▶아이뉴스TV에서 부동산 고수를 만나보세요.
+----------
+```
+- Solution : source에 '▶' 기호가 2개 있을시 그 이하 삭제
+```python
+# 광고인가??!
+def remove_ad(data):
+    count_ad = data.count('▶')
+
+    if count_ad == 2:
+        start_ad = data.find('▶')
+        return data[:start_ad]
+    else:
+        return data
+```
+
+
 ## Strong Tag Preprocessing
 신문사에서 summary처럼 보이는 tag가 존재
 
@@ -83,4 +112,5 @@ def remove_under_N_tokens(summ_data, N=3):
 ### Num Data After Preprocessing
 |Tag|Befor|After|
 |------|------|------|
+|Comple|43,456|39,289|
 |Strong|38,707|13,687|
