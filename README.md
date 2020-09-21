@@ -109,7 +109,7 @@ def remove_under_N_tokens(summ_data, N=3):
 
     return False if len(summ_list) <= N else True
 ```
-### Num Data After Preprocessing
+### Num of Data after Preprocessing
 |Tag|Befor|After|
 |------|------|------|
 |Comple|43,456|39,289|
