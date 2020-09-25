@@ -117,7 +117,7 @@ def remove_under_N_tokens(summ_data, N=3):
 
 ## Company Id, 갯수
 |idx|Company Id|Num|
-|----|:----:|----|
+|----|:----:|:----:|
 |1|12|319717|
 |2|32|174692|
 |3|11|154562|
