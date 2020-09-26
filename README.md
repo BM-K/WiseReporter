@@ -181,7 +181,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |61|52|news.mk.co.kr|437|
 |62|71|www.newscham.ney|361|
 |63|98|enews.imbc.com|354|
-|64|46|www.zdnet.com.kr|335|
+|64|46|www.zdnet.co.kr|335|
 |65|60|weekly.chosun.com|315|
 |66|119|newstapa.org|262|
 |67|70|www.ildaro.com|259|
