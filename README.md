@@ -129,7 +129,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |9|6|www.segye.com|64863|
 |10|27|www.sedaily.com|61471|
 |11|16|news.wowtv.co.kr|59239|
-|12|37|moneys.mt.com.kr|55498|
+|12|37|moneys.mt.co.kr|55498|
 |13|2|news.kmib.co.kr|52470|
 |14|10|www.hankookilbo.com.kr|50066|
 |15|26|news.mt.co.kr|46836|
