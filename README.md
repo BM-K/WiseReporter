@@ -150,9 +150,9 @@ def remove_under_N_tokens(summ_data, N=3):
 |30|65|news.imaeil.com|21721|
 |31|39|www.ohmynews.com|20559|
 |32|8|news.joins.com|20020|
-|33|88|www.sportsseoul.com|19469|
+~~|33|88|www.sportsseoul.com|19469|~~
 |34|64|www.kwnews.co.kr|19128|
-|35|90|sports.chosun.com|14314|
+~~|35|90|sports.chosun.com|14314|~~
 |36|21|cnbc.sbs.co.kr|12729|
 |37|1|news.khan.co.kr|12702|
 |38|124|news.tf.co.kr|11680|
@@ -166,7 +166,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |46|54|www.sisajournal.com|4185|
 |47|69|www.womennews.co.kr|3757|
 |48|38|www.mediatoday.co.kr|3187|
-|49|87|sports.khan.co.kr|3180|
+~~|49|87|sports.khan.co.kr|3180|~~
 |50|92|www.xportsnews.com|3149|
 |51|63|magazine.hankyung.com|1983|
 |52|93|isplus.live.joins.com|1942|
@@ -192,7 +192,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |72|73|kormedi.com|52|
 |73|91|www.cine21.com|21|
 |74|84|www.mydaily.co.kr|12|
-|75|86|sports.khan.co.kr|9|
-|76|100|sports.mk.co.kr|2|
+~~|75|86|sports.khan.co.kr|9|~~
+~~|76|100|sports.mk.co.kr|2|~~
 |77|118|www.newsen.com|1|
 |78|121|www.spotvnews.co.kr|1|
