@@ -167,7 +167,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |47|69|www.womennews.co.kr|3757|
 |48|38|www.mediatoday.co.kr|3187|
 |~~49~~|~~87~~|~~sports.khan.co.kr~~|~~3180~~|
-|50|92|www.xportsnews.com|3149|
+|~~50~~|~~92~~|~~www.xportsnews.com~~|~~3149~~|
 |51|63|magazine.hankyung.com|1983|
 |52|93|isplus.live.joins.com|1942|
 |53|113|imnews.imbc.com|1239|
