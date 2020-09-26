@@ -135,7 +135,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |15|26|news.mt.co.kr|46836|
 |16|13|yna.kr|46614|
 |17|40|www.pressian.com|37591|
-|18|25|news.mk.com.kr|36592|
+|18|25|news.mk.co.kr|36592|
 |19|5|www.seoul.co.kr|34995|
 |20|3|www.donga.com|32749|
 |21|44|www.inews24.com|29438|
