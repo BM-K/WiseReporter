@@ -131,7 +131,7 @@ def remove_under_N_tokens(summ_data, N=3):
 |11|16|news.wowtv.co.kr|59239|
 |12|37|moneys.mt.co.kr|55498|
 |13|2|news.kmib.co.kr|52470|
-|14|10|www.hankookilbo.com.kr|50066|
+|14|10|www.hankookilbo.com|50066|
 |15|26|news.mt.co.kr|46836|
 |16|13|yna.kr|46614|
 |17|40|www.pressian.com|37591|
