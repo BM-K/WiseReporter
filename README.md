@@ -109,11 +109,6 @@ def remove_under_N_tokens(summ_data, N=3):
 
     return False if len(summ_list) <= N else True
 ```
-### Num of Data after Preprocessing
-|Tag|Befor|After|
-|------|------|------|
-|Comple|43,456|39,289|
-|Strong|38,707|13,687|
 
 ## Company Id, 갯수
 |idx|Company Id|Company Name|Num|
