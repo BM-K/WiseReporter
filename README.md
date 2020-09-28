@@ -123,8 +123,10 @@ cid = 33
 source, tgt 겹침 추가 제거
 ```
 ## Nocutnews
+```
 cid = 35
 무난
+```
 
 ## Heraldcorp
 ```
