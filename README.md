@@ -7,286 +7,409 @@ target이 source에도 나오는 경우 제거
 광고, 기자 제거
 ```
 ## Newsis
+```
 cid = 12
 맨 윗줄에 '【서울=뉴시스】 = ' 제거 
-
+```
 ## Fnnews
+```
 cid = 32
 무난
-
+```
 ## News1
+```
 cid = 11
 맨 윗줄에 '(서울=뉴스1) 문대현 기자 = ' 제거
-
+```
 ## Asiae
+```
 cid = 28
 무난
-
+```
 ## Edaily
+```
 cid = 29
 무난
-
+```
 ## HanKyung
+```
 cid = 33
 source, tgt 겹침 추가 제거
-
+```
 ## Nocutnews
 cid = 35
 무난
 
 ## Heraldcorp
+```
 cid = 34
 무난
-
+```
 ## Segye
+```
 cid = 6
 source에 'ⓒ 세상을 보는 눈, 세계일보' 제거
 target에 '세계일보' 제거
 source에 '기자' 추가 제거
+```
 
 ## Sedaily
+```
 cid = 27
 source에 '[서울경제]' 제거
-
+```
 ## Wowty
+```
 cid = 16
 target에 '▶ 네이버 홈에서 [한국경제TV] 채널 구독하기 [생방송보기]' 광고 추가 제거
 target에 '※' or '<사진' 로 시작되는 필요없는 target 제거
+```
 
 ## Moneys
+```
 cid = 37
 source에 '☞' 로 시작하는 광고 추가 제거
-target에 '▶ 고수들의' or '☞' 로 시작되는 광고 추가 제거 
+target에 '▶ 고수들의' or '☞' 로 시작되는 광고 추가 제거
+```
 
 ## Kmib
+```
 cid = 2
 무난
-
+```
 ## Hankookilbo
+```
 cid = 10
 무난
-
+```
 ## Mt
+```
 cid = 26
 source에 '▶' 로 시작하는 광고 추가 제거
 target에 '변호사' 로 시작되는 의미없는 target 제거
-
+```
 ## Yna
+```
 cid = 13
 source에 '(서울=연합뉴스) 정빛나 기자 = ' 부분 제거
 target에 '기사제공' 제거
-
+```
 ## Pressian
+```
 cid = 40
 무난
+```
 
 ## Mk
+```
 cid = 25
 무난
+```
 
 ## Seoul
+```
 cid = 5
 무난
+```
 
 ## Donga
+```
 cid = 3
 무난
+```
 
 ## Inews24
+```
 cid = 44
-
+source에 '[아이뉴스24 ] ' 제거
+```
 ## Etnews
+```
 cid = 45
+target에 '▶ 네이버 모바일에서 [전자신문] 채널 구독하기' 광고 제거
+target에 '▶ 인공지능(' 글 제거
+```
 
 ## Dt
+```
 cid = 42
 source에 '네이버 채널에서' 광고 추가 제거
 target에 '고견을 듣는다' 제거
+```
 
 ## Munhwa
+```
 cid = 4
 target에 '[ 문화닷컴 바로가기 | 문화일보가 직접 편집한 뉴스 채널 | 모바일 웹 ]' 광고 추가 제거
+```
 
 ## BizChosun
+```
 cid = 7
 무난
+```
 
 ## Busan
+```
 cid = 66
 무난
-
+```
 ## Hani
+```
 cid = 9
 source에 '<한겨레21>이 후원제를 시작합니다.' 광고 추가 제거
+```
 
 ## Mbn
+```
 cid = 20
 source에 '동영상 뉴스' 제거
 target에 '▶네이버' 광고 추가 제거
+```
 
 ## Dailian
+```
 cid = 36
 source에 '(주)데일리안 - 무단전재, 변형, 무단배포 금지' 제거
+```
 
 ## Imaeil
+```
 cid = 65
 무난
+```
 
 ## Ohmynews
+```
 cid = 39
 target에 '▶오마이뉴스에서는' 광고 제거
+```
 
 ## NewsJoins
+```
 cid = 8
 source에 '▶ 네이버 메인에서 중앙일보를 받아보세요' 광고 추가 제거
+```
 
 ## Kwnews
+```
 cid = 64
 무난
+```
 
 ## Cnbcsbs
+```
 cid = 21
 source에 'SBSCNBC 제공' 제거
 source, tgt 겹침 추가 제거
+```
 
 ## Khan
+```
 cid = 1
 source에 '▶ 네이버 메인에서 경향신문 받아보기' 광고 추가 제거
+```
 
 ## Tf
+```
 cid = 124
 무난
+```
 
 ## Tvchosun
+```
 cid = 23
 target에 '☞ 네이버 메인에서 TV조선 구독하기' 광고 추가 제거
 source, tgt 겹침 추가 제거
+```
 
 ## Ytn
+```
 cid = 24
 source에 'YTN 제공' 제거
 target에 '▶ 대한민국 24시간 뉴스 채널 YTN 생방송보기 반복' 광고 제거
+```
 
 ## BizChosun
+```
 cid = 30
 무난
+```
 
 ## Sbs
+```
 cid = 117
 무난
+```
 
 ## Joseilbo
+```
 cid = 31
 무난
+```
 
 ## Jtbc
+```
 cid = 17
 무난
+```
 
 ## Kbs
+```
 cid = 108
 source에 '※', '*' 로 시작하는 의미 없는 글 제거
+```
 
 ## Sisajournal
+```
 cid = 54
 target에 '☞ 네이버에서 시사저널 뉴스를 받아 보세요' 광고 제거
+```
 
 ## Womennews
+```
 cid = 69
 target에 '[여신 후원자 되기]' 광고 제거
+```
 
 ## Mediatoday
+```
 cid = 38
 무난
+```
 
 ## MagazineHankyung
+```
 cid = 63
 무난
+```
 
 ## Isplus
+```
 cid = 93
 무난
+```
 
 ## Imbc
+```
 cid = 113
 source에 '동영상 뉴스' 제거
 source에 'MBC뉴스', 'Copyright' 
+```
 
 ## NewsJoins
+```
 cid = 61
 source에 '▶ 네이버 메인에서 중앙일보를 받아보세요' 광고 추가 제거
+```
 
 ## Ichannela
+```
 cid = 15
 target에 '※자세한 내용은 사건상황실에서 확인하실 수 있습니다.' 글 제거
+```
 
 ## Journalist
+```
 cid = 67
 무난
+```
 
 ## H21Hani
+```
 cid = 62
 source에 '<한겨레21>이 후원제를 시작합니다.' 광고 추가 제거
+```
 
 ## Sisain
+```
 cid = 53
 무난
+```
 
 ## WeeklyDonga
+```
 cid = 59
 무난
+```
 
 ## Shindonga
+```
 cid = 55
 무난
+```
 
 ## Mk
+```
 cid = 52
 무난
+```
 
 ## Newscham
+```
 cid = 71
 source에 '이 기사는 정보공유라이선스 2.0 : 영리금지'를 따릅니다.' 제거
+```
 
 ## EnewsImbc
+```
 cid = 98
 무난
+```
 
 ## Zdnet
+```
 cid = 46
 target에 '/▶ 지디넷코리아 '홈페이지'' 제거
+```
 
 ## WeeklyChosun
+```
 cid = 60
 무난
+```
 
 ## Newstapa
+```
 cid = 119
 무난
+```
 
 ## Ildaro
+```
 cid = 70
 무난
+```
 
 ## WeeklyKhan
+```
 cid = 58
 source에 '※이번 호를 끝으로 시리즈 연재를 마칩니다.' 제거
+```
 
 ## Chosun
+```
 cid = 125
 무난
+```
 
 ## SanChosun
+```
 cid = 56
 무난
+```
 
 ## Osen
+```
 cid = 78
 source에 '[OSEN=박선양 기자]' 제거
+```
 
 ## Kormedi
+```
 cid = 73
 무난
+```
 
 ## Company Id, Name, Num
 |idx|Company Id|Company Name|Num|
