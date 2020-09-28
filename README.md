@@ -1,7 +1,7 @@
 # WiseReporterPreprocessing
 WiseReporter Data Preprocessing Doc
 
-## Company Id, 갯수
+## Company Id, Name, Num
 |idx|Company Id|Company Name|Num|
 |----|:----:|:----:|:----:|
 |1|12|www.newsis.com|319717|
