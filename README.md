@@ -1,6 +1,210 @@
 # WiseReporterPreprocessing
 WiseReporter Data Preprocessing Doc
 
+## Newsis
+cid = 12
+
+## Fnnews
+cid = 32
+
+## News1
+cid = 11
+
+## Asiae
+cid = 28
+
+## Edaily
+cid = 29
+
+## HanKyung
+cid = 33
+
+## Nocutnews
+cid = 35
+
+## Heraldcorp
+cid = 34
+
+## Segye
+cid = 6
+
+## Sedaily
+cid = 27
+
+## Wowty
+cid = 16
+
+## Moneys
+cid = 37
+
+## Kmib
+cid = 2
+
+## Hankookilbo
+cid = 10
+
+## Mt
+cid = 26
+
+## Yna
+cid = 13
+
+## Pressian
+cid = 40
+
+## Mk
+cid = 25
+
+## Seoul
+cid = 5
+
+## Donga
+cid = 3
+
+## Inews24
+cid = 44
+
+## Etnews
+cid = 45
+
+## Dt
+cid = 42
+
+## Munhwa
+cid = 4
+
+## BizChosun
+cid = 7
+
+## Busan
+cid = 66
+
+## Hani
+cid = 9
+
+## Mbn
+cid = 20
+
+## Dailian
+cid = 36
+
+## Imaeil
+cid = 65
+
+## Ohmynews
+cid = 39
+
+## NewsJoins
+cid = 8
+
+## Kwnews
+cid = 64
+
+## Cnbcsbs
+cid = 21
+
+## Khan
+cid = 1
+
+## Tf
+cid = 124
+
+## Tvchosun
+cid = 23
+
+## Ytn
+cid = 24
+
+## BizChosun
+cid = 30
+
+## Sbs
+cid = 117
+
+## Joseilbo
+cid = 31
+
+## Jtbc
+cid = 17
+
+## Kbs
+cid = 108
+
+## Sisajournal
+cid = 54
+
+## Womennews
+cid = 69
+
+## Mediatoday
+cid = 38
+
+## MagazineHankyung
+cid = 63
+
+## Isplus
+cid = 93
+
+## Imbc
+cid = 113
+
+## NewsJoins
+cid = 61
+
+## Ichannela
+cid = 15
+
+## Journalist
+cid = 67
+
+## H21Hani
+cid = 62
+
+## Sisain
+cid = 53
+
+## WeeklyDonga
+cid = 59
+
+## Shindonga
+cid = 55
+
+## Mk
+cid = 52
+
+## Newscham
+cid = 71
+
+## EnewsImbc
+cid = 98
+
+## Zdnet
+cid = 46
+
+## WeeklyChosun
+cid = 60
+
+## Newstapa
+cid = 119
+
+## Ildaro
+cid = 70
+
+## WeeklyKhan
+cid = 58
+
+## Chosun
+cid = 125
+
+## SanChosun
+cid = 56
+
+## Osen
+cid = 78
+
+## Kormedi
+cid = 73
+
 ## Company Id, Name, Num
 |idx|Company Id|Company Name|Num|
 |----|:----:|:----:|:----:|
