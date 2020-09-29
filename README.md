@@ -76,16 +76,25 @@ WiseReporter Data Preprocessing Doc
 |70|56|san.chosun.com|80|
 |71|78|www.osen.co.kr|64|
 |72|73|kormedi.com|52|
-|73|91|www.cine21.com|21|
-|74|84|www.mydaily.co.kr|12|
+|~~73~~|~~91~~|~~www.cine21.com~~|~~21~~|
+|~~74~~|~~84~~|~~www.mydaily.co.kr~~|~~12~~|
 |~~75~~|~~86~~|~~sports.khan.co.kr~~|~~9~~|
 |~~76~~|~~100~~|~~sports.mk.co.kr~~|~~2~~|
-|77|118|www.newsen.com|1|
-|78|121|www.spotvnews.co.kr|1|
+|~~77~~|~~118~~|~~www.newsen.com~~|~~1~~|
+|~~78~~|~~121~~|~~www.spotvnews.co.kr~~|~~1~~|
 
 # Preprocessing
 공통 + 개별 요소로 전처리하였습니다. <br>
 '무난'은 공통으로만 처리한 기사입니다.
+
+## 삭제 기사
+```
+www.sportsseoul.com
+sports.chosun.com
+sports.khan.co.kr
+www.xportsnews.com
+
+```
 
 ## 공통
 ```
