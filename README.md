@@ -115,7 +115,7 @@ cid = 28
 ## Edaily
 ```
 cid = 29
-무난
+source에 (1245) 이런 숫자 제거
 ```
 ## HanKyung
 ```
@@ -168,7 +168,7 @@ cid = 2
 ## Hankookilbo
 ```
 cid = 10
-무난
+source에 '▶'로 시작하는 광고 추가 제거
 ```
 ## Mt
 ```
@@ -214,8 +214,10 @@ source에 '[아이뉴스24 ] ' 제거
 ## Etnews
 ```
 cid = 45
+source에 '※'로 시작하는 글 제거
 target에 '▶ 네이버 모바일에서 [전자신문] 채널 구독하기' 광고 제거
 target에 '▶ 인공지능(' 글 제거
+target에 '◆ Report' 글 제거
 ```
 
 ## Dt
@@ -357,6 +359,7 @@ target에 '☞ 네이버에서 시사저널 뉴스를 받아 보세요' 광고 �
 ## Womennews
 ```
 cid = 69
+source에 '▶ 네이버에서 여성신문 채널을 구독하세요.' 광고 추가 제거
 target에 '[여신 후원자 되기]' 광고 제거
 ```
 
@@ -466,7 +469,7 @@ cid = 119
 ## Ildaro
 ```
 cid = 70
-무난
+source에 '※' 로 시작하는 광고 
 ```
 
 ## WeeklyKhan
