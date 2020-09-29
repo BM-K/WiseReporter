@@ -58,7 +58,7 @@ WiseReporter Data Preprocessing Doc
 |52|93|isplus.live.joins.com|1942|
 |53|113|imnews.imbc.com|1239|
 |54|61|news.joins.com|1227|
-|55|15|www.ichannela.com|977|
+|~~55~~|~~15~~|~~www.ichannela.com~~|~~977~~|
 |56|67|www.journalist.or.kr|851|
 |57|62|h21.hani.co.kr|829|
 |58|53|www.sisain.co.kr|673|
@@ -93,7 +93,10 @@ www.sportsseoul.com
 sports.chosun.com
 sports.khan.co.kr
 www.xportsnews.com
+-> sport 기사는 target에 광고 밖에 없음
 
+www.ichannela.com
+-> target이 summary가 아님
 ```
 
 ## 공통
@@ -281,7 +284,10 @@ cid = 65
 ## Ohmynews
 ```
 cid = 39
+summary에 '덧붙이는 글' 제거
 target에 '▶오마이뉴스에서는' 광고 제거
+target에 '▲ [오마이포토]' 광고 제거
+target에 '덧붙이는 글' 제거
 ```
 
 ## NewsJoins
@@ -293,7 +299,7 @@ source에 '▶ 네이버 메인에서 중앙일보를 받아보세요' 광고 �
 ## Kwnews
 ```
 cid = 64
-무난
+source에 '【철원】 [양구] ' 지역명 나오는 것 제거
 ```
 
 ## Cnbcsbs
@@ -403,12 +409,6 @@ cid = 61
 source에 '▶ 네이버 메인에서 중앙일보를 받아보세요' 광고 추가 제거
 ```
 
-## Ichannela
-```
-cid = 15
-target에 '※자세한 내용은 사건상황실에서 확인하실 수 있습니다.' 글 제거
-```
-
 ## Journalist
 ```
 cid = 67
@@ -478,7 +478,7 @@ cid = 119
 ## Ildaro
 ```
 cid = 70
-source에 '※' 로 시작하는 광고 
+source에 '※' 로 시작하는 광고 제거
 ```
 
 ## WeeklyKhan
