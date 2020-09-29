@@ -97,6 +97,8 @@ www.xportsnews.com
 
 www.ichannela.com
 -> target이 summary가 아님
+
+50개 미만 데이터 
 ```
 
 ## 공통
