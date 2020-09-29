@@ -515,3 +515,10 @@ cid = 73
 |전체|전처리 후|
 |:----:|:----:|
 |2263698|1752769|
+
+## Example
+<img src = 'https://user-images.githubusercontent.com/55969260/94549090-a0b7a900-028c-11eb-8e3a-2b7daae7d2b4.png'> <br>
+<img src = 'https://user-images.githubusercontent.com/55969260/94549161-c3e25880-028c-11eb-8220-5a2f7e1db306.png'> <br>
+<img src = 'https://user-images.githubusercontent.com/55969260/94549245-e1172700-028c-11eb-9eb6-ec5569bb22d5.png'> <br>
+<img src = 'https://user-images.githubusercontent.com/55969260/94549278-ed02e900-028c-11eb-89c9-b3fff0802946.png'> <br>
+<img src = 'https://user-images.githubusercontent.com/55969260/94549309-fa1fd800-028c-11eb-9c43-361d8558538f.png'> <br>
