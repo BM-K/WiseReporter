@@ -39,7 +39,7 @@ WiseReporter Data Preprocessing Doc
 |~~33~~|~~88~~|~~www.sportsseoul.com~~|~~19469~~|
 |34|64|www.kwnews.co.kr|19128|
 |~~35~~|~~90~~|~~sports.chosun.com~~|~~14314~~|
-|36|21|cnbc.sbs.co.kr|12729|
+|~~36~~|~~21~~|~~cnbc.sbs.co.kr~~|~~12729~~|
 |37|1|news.khan.co.kr|12702|
 |38|124|news.tf.co.kr|11680|
 |39|23|news.tvchosun.com|9007|
@@ -97,6 +97,9 @@ www.xportsnews.com
 
 www.ichannela.com
 -> target이 summary가 아님
+
+cnbc.sbs.co.kr
+-> 동영상 뉴스
 
 50개 미만 데이터 
 ```
@@ -225,6 +228,7 @@ cid = 3
 cid = 44
 source에 '[아이뉴스24 ] ' 제거
 ```
+
 ## Etnews
 ```
 cid = 45
@@ -304,13 +308,6 @@ cid = 64
 source에 '【철원】 [양구] ' 지역명 나오는 것 제거
 ```
 
-## Cnbcsbs
-```
-cid = 21
-source에 'SBSCNBC 제공' 제거
-source, tgt 겹침 추가 제거
-```
-
 ## Khan
 ```
 cid = 1
@@ -346,7 +343,9 @@ cid = 30
 ## Sbs
 ```
 cid = 117
-무난
+source에 '※', '▶' 로 시작하는 광고 제거
+target에 '[SBS스페셜]' 제거
+target에 '*' 로 시작하는 의미 없는 target 제거
 ```
 
 ## Joseilbo
