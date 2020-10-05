@@ -1,5 +1,5 @@
 # Wise Reporter Preprocessing
-WiseReporter Data Preprocessing Doc
+Wise Reporter Data Preprocessing Doc
 
 ## Company Id, Name, Num
 |idx|Company Id|Company Name|Num|
