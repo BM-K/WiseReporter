@@ -516,7 +516,7 @@ cid = 73
 |:----:|:----:|
 |2263698|1752769|
 
-## Example
+## 예시
 <img src = 'https://user-images.githubusercontent.com/55969260/94549090-a0b7a900-028c-11eb-8e3a-2b7daae7d2b4.png'> <br>
 <img src = 'https://user-images.githubusercontent.com/55969260/94549161-c3e25880-028c-11eb-8220-5a2f7e1db306.png'> <br>
 <img src = 'https://user-images.githubusercontent.com/55969260/94549245-e1172700-028c-11eb-9eb6-ec5569bb22d5.png'> <br>
