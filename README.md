@@ -346,6 +346,7 @@ cid = 30
 ```
 cid = 117
 source에 '※', '▶' 로 시작하는 광고 제거
+source에 인터뷰 내용 삭제
 target에 '[SBS스페셜]' 제거
 target에 '*' 로 시작하는 의미 없는 target 제거
 ```
