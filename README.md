@@ -113,11 +113,12 @@ target이 source에도 나오는 경우 제거
 ```
 cid = 12
 맨 윗줄에 '【서울=뉴시스】 = ' 제거 
+target에 '[네이버]' 광고 제거
 ```
 ## Fnnews
 ```
 cid = 32
-무난
+target에 '▶' 광고 제거
 ```
 ## News1
 ```
@@ -138,11 +139,12 @@ source에 (1245) 이런 숫자 제거
 ```
 cid = 33
 source, tgt 겹침 추가 제거
+target에 '◆', '네이버에서~' 광고 제거
 ```
 ## Nocutnews
 ```
 cid = 35
-무난
+target에 '▶' 광고 제거
 ```
 
 ## Heraldcorp
@@ -180,7 +182,7 @@ target에 '▶ 고수들의' or '☞' 로 시작되는 광고 추가 제거
 ## Kmib
 ```
 cid = 2
-무난
+target에 '▶ 고수들의' or '국민일보' 로 시작되는 광고 추가 제거
 ```
 ## Hankookilbo
 ```
