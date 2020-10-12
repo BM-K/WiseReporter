@@ -128,7 +128,7 @@ cid = 11
 ## Asiae
 ```
 cid = 28
-무난
+target에 '▶' 광고 제거
 ```
 ## Edaily
 ```
