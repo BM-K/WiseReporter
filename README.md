@@ -516,7 +516,7 @@ cid = 73
 ## 데이터 개수
 |전체|전처리 후|
 |:----:|:----:|
-|2263698|1263385|
+|2263698|1263419|
 
 ## 예시
 <img src = 'https://user-images.githubusercontent.com/55969260/94549090-a0b7a900-028c-11eb-8e3a-2b7daae7d2b4.png'> <br>
