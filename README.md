@@ -83,7 +83,7 @@ Wise Reporter Data Preprocessing Doc
 |~~77~~|~~118~~|~~www.newsen.com~~|~~1~~|
 |~~78~~|~~121~~|~~www.spotvnews.co.kr~~|~~1~~|
 
-# Preprocessing
+# 전처리
 공통 + 개별 요소로 전처리하였습니다. <br>
 '무난'은 공통으로만 처리한 기사입니다.
 
