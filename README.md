@@ -106,6 +106,9 @@ cnbc.sbs.co.kr
 
 ## 공통
 ```
+src \n\n 제거 밑 마지막 \n 추가
+tgt \n -> <eos>로 치환
+▲ 기호 ↑ 로 치환
 target이 source에도 나오는 경우 제거
 광고, 기자 제거
 ```
