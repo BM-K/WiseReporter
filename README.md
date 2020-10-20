@@ -1,5 +1,6 @@
 # Wise Reporter Preprocessing
-Wise Reporter Data Preprocessing Doc
+Wise Reporter Data Preprocessing Doc 
++ 전체 따로 summ 따로
 
 ## Company Id, Name, Num
 |idx|Company Id|Company Name|Num|
